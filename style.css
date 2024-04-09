@@ -69,17 +69,17 @@ body {
 }
 
 .numero {
-     color: white; /* Cor dos números */
+     color: rgb(255, 0, 0); /* Cor dos números */
      font-size: 120px; /* Tamanho da fonte para os números */
      margin: 0 20px; /* Espaçamento à esquerda e à direita dos números */
 }
 
 .palavra {
-   color: green; /* Cor das palavras */
+   color: rgb(0, 255, 0); /* Cor das palavras */
    font-size: 30px; /* Tamanho da fonte para as palavras */
 }
 .contador h2 {
-   color: #6FFF57; /* Cor do título "Tempo Para Completar Objetivo" */
+   color: #ffee00; /* Cor do título "Tempo Para Completar Objetivo" */
    margin-bottom: 20px; /* Adiciona espaço abaixo do h2 */
 }
 .contador h3 {
